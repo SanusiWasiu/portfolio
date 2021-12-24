@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 import Button from './Button';
-import Logo from './Logo';
+// import Logo from './Logo';
 import NavLinks from './NavLinks';
 import bars from '../img/bars-solid.svg';
 import times from '../img/times-solid.svg';
